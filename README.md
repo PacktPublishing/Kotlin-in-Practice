@@ -17,15 +17,16 @@ Kotlin is a programming language intended to be better than Java, and it's desig
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for anybody who wants to learn the more advanced features of Kotlin or create a native Android app. No prior knowledge of Android is needed, and only basic knowledge of Kotlin is recommend.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
-OS: Linux
-Processor: 3.2 GHz
-Memory: 8 GB
-Storage: 500 GB
 
-Software Requirements
-Operating system: Linux, Windows or Mac
-Browser: Chrome Latest 
+<UL>
+<LI>OS: Linux, Windows</LI>
+<LI>Processor: 3.2 GHz</LI>
+<LI>Memory: 8 GB</LI>
+<LI>Storage: 500 GB</LI>
+
+### Software Requirements
+<LI>Operating system: Linux, Windows or Mac</LI>
+<LI>Browser: Chrome Latest</LI></UL> 
 
 
 ## Related Products
